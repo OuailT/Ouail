@@ -3,7 +3,7 @@
 
 I'm a front-end & Blockchain developer based in Paris
 
-- 🔭 I’m currently working on Multi signature wallet Daap
+- 🔭 I’m currently working on NFT marketplace
 - 🌱 I’m currently learning solidity
 - 👯 I’m looking to collaborate on solidity
 - 💬 Ask me about anything
