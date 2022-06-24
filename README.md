@@ -3,7 +3,7 @@
 
 I'm Full stack Blockchain developer based in Paris
 
-- 🔭 I’m currently working on NFT marketplace
+- 🔭 I’m currently working on NFTs
 - 🌱 I’m currently learning DEFI
 - 👯 I’m looking to collaborate on solidity
 - 💬 Ask me about anything
