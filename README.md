@@ -1,7 +1,7 @@
 # Hi👋
 ## I'm Tayarth Ouail 😸
 
-I'm Full stack Blockchain developer based in Paris
+I'm Full stack Blockchain developer based in Sweden
 
 - 🔭 I’m currently working on NFTs
 - 🌱 I’m currently learning DEFI
